@@ -4,10 +4,14 @@ I'm a B.Tech CSE student specializing in AI & ML at Lokmanya Tilak College of En
 
 <br>
 
-🔭 **I’m currently working on:** 
-* Open-innovation hackathon projects like **HeritageWeave**, an unbiased AI middleware designed to mitigate representational bias in cultural and historical generative outputs.
-* **Kasaudhan Mart**, an AI-driven e-commerce platform utilizing a multi-agent system and a private-by-design architecture via the OpenClaw framework.
-* Community-focused platforms like **StudySerene** and **NeighborLend**.
+🚀 **Projects I've Built & Am Building:** 
+* **LOS (Learning Operating System)**: A comprehensive educational environment tailored for enhanced learning experiences.
+* **MEALers connect**: An AI-powered food donation platform that analyzes surplus food to facilitate efficient redistribution.
+* **Rescue Paws**: A community-driven web platform designed to rescue street animals by allowing users to post sightings and location details.
+* **NeighborLend** & **StudySerene**: Community-focused platforms enabling resource sharing and collaborative study.
+* **Kisan Udyog**: A digital initiative bringing technical innovation to sustainable and traditional agriculture.
+* **HeritageWeave**: An unbiased AI middleware project designed to mitigate representational bias in cultural and historical generative outputs.
+* **Kasaudhan Mart**: An AI-driven e-commerce platform utilizing a multi-agent system and a private-by-design architecture via the OpenClaw framework.
 
 🌱 **I’m currently learning:** Advanced machine learning techniques, the integration of vector databases, multi-agent AI systems, and the practical applications of complex numerical methods in engineering.
 
@@ -16,9 +20,8 @@ I'm a B.Tech CSE student specializing in AI & ML at Lokmanya Tilak College of En
 🤝 **I’m looking for help with:** Optimizing models, orchestrating agent-based architectures, and scaling full-stack applications using Next.js, React, Tailwind CSS, and FastAPI.
 
 💬 **Ask me about:** 
-* Building solutions for social impact (like my previous projects **MEALers connect** for AI-powered food redistribution, and **Rescue Paws**, a community-driven web platform for street animal welfare).
+* Building solutions for social impact, full-stack web development, and hackathon pitching strategies!
 * Developing AI-driven tools like my career decision web app, **Mento Intello**.
-* Full-stack web development and hackathon pitching strategies!
 
 ⚡ **Fun fact:** I'm fascinated by the discoveries of the ancient mathematician Aryabhatta, and I also have a strong side interest in sustainable and traditional agriculture.
 
