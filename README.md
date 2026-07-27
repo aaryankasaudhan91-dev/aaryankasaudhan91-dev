@@ -4,7 +4,7 @@ I'm a B.Tech CSE student specializing in AI & ML at Lokmanya Tilak College of En
 
 <br>
 
-🚀 **Projects I've Built & Am Building:** 
+🚀 **Projects I've Built & Am Building:** * **Krishi Mitra**: An AI-powered, offline-first agriculture platform built for Indian smallholder farmers to ensure proactive crop protection and maximized yields. It features a vector-based biological product advisor (CropFit), a multilingual WhatsApp chatbot, and a threshold-based climate stress early warning system. Built using Flutter, Node.js, MongoDB Atlas, and Firebase.
 * **LOS (Learning Operating System)**: A comprehensive educational environment tailored for enhanced learning experiences.
 * **MEALers connect**: An AI-powered food donation platform that analyzes surplus food to facilitate efficient redistribution.
 * **Rescue Paws**: A community-driven web platform designed to rescue street animals by allowing users to post sightings and location details.
@@ -19,8 +19,7 @@ I'm a B.Tech CSE student specializing in AI & ML at Lokmanya Tilak College of En
 
 🤝 **I’m looking for help with:** Optimizing models, orchestrating agent-based architectures, and scaling full-stack applications using Next.js, React, Tailwind CSS, and FastAPI.
 
-💬 **Ask me about:** 
-* Building solutions for social impact, full-stack web development, and hackathon pitching strategies!
+💬 **Ask me about:** * Building solutions for social impact, full-stack web development, and hackathon pitching strategies!
 * Developing AI-driven tools like my career decision web app, **Mento Intello**.
 
 ⚡ **Fun fact:** I'm fascinated by the discoveries of the ancient mathematician Aryabhatta, and I also have a strong side interest in sustainable and traditional agriculture.
@@ -46,5 +45,3 @@ I'm a B.Tech CSE student specializing in AI & ML at Lokmanya Tilak College of En
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aaryankasaudhan91-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
