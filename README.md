@@ -93,24 +93,25 @@ I'm a computer science engineering undergraduate specializing in **Artificial In
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <!-- Interactive Contribution Heatmap (Ultra-reliable SVG engine) -->
+  <!-- Contribution Activity Heatmap -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryankasaudhan91-dev&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Aaryan's Contribution Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- GitHub Dynamic Summary Cards -->
-  <img src="https://metrics.lecoq.io/aaryankasaudhan91-dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=1&base.metadata=0&languages=1&languages.limit=6&languages.colors=github&config.timezone=Asia%2FKolkata" width="48%" alt="Language Breakdown" />
+  <!-- GitHub Profile Summary Card: Most Used Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aaryankasaudhan91-dev&theme=tokyonight" width="48%" alt="Top Commit Languages" />
+  
+  <!-- GitHub Profile Summary Card: Overall Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaryankasaudhan91-dev&theme=tokyonight" width="48%" alt="Profile Summary Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Dynamic Shield Metrics (Instant Load, Zero Rate Limiting) -->
+  <!-- Direct CDN Shields (Instant, Never Rate-Limited) -->
   <img src="https://img.shields.io/github/followers/aaryankasaudhan91-dev?label=Followers&style=for-the-badge&color=38B2AC&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/aaryankasaudhan91-dev?label=Total%20Stars&style=for-the-badge&color=F6AD55&logo=star" alt="Stars" />
   <img src="https://img.shields.io/badge/Status-Building%20AI%20Solutions-20232a?style=for-the-badge&logo=rocket" alt="Status" />
 </div>
 ---
