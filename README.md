@@ -1,47 +1,125 @@
-# 💫 About Me:
-Hi there, I'm Aaryan! 👋<br>
-I'm a B.Tech CSE student specializing in AI & ML at Lokmanya Tilak College of Engineering. As an aspiring AI Engineer with a strong background in software development and data science, I am passionate about building tech for social good and am always geared up for the next hackathon. I love turning complex ideas into highly functional, scalable web platforms!
+<div align="center">
+  <h1 align="center">Hi there, I'm <a href="https://linkedin.com/in/aaryan-kasaudhan-00a4b7388">Aaryan Kasaudhan</a> 👋</h1>
+  <p align="center">
+    <strong>AI/ML Engineer & Full-Stack Developer • Building Tech for Social Good</strong>
+  </p>
 
-<br>
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=B.Tech+CSE+(AI+%26+ML)+%40+LTCE;Multi-Agent+Systems+%26+Vector+DBs;Building+Scalable+Social-Impact+Platforms;Hackathon+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
+    </a>
+  </p>
 
-🚀 **Projects I've Built & Am Building:** * **Krishi Mitra**: An AI-powered, offline-first agriculture platform built for Indian smallholder farmers to ensure proactive crop protection and maximized yields. It features a vector-based biological product advisor (CropFit), a multilingual WhatsApp chatbot, and a threshold-based climate stress early warning system. Built using Flutter, Node.js, MongoDB Atlas, and Firebase.
-* **LOS (Learning Operating System)**: A comprehensive educational environment tailored for enhanced learning experiences.
-* **MEALers connect**: An AI-powered food donation platform that analyzes surplus food to facilitate efficient redistribution.
-* **Rescue Paws**: A community-driven web platform designed to rescue street animals by allowing users to post sightings and location details.
-* **NeighborLend** & **StudySerene**: Community-focused platforms enabling resource sharing and collaborative study.
-* **Kisan Udyog**: A digital initiative bringing technical innovation to sustainable and traditional agriculture.
-* **HeritageWeave**: An unbiased AI middleware project designed to mitigate representational bias in cultural and historical generative outputs.
-* **Kasaudhan Mart**: An AI-driven e-commerce platform utilizing a multi-agent system and a private-by-design architecture via the OpenClaw framework.
-
-🌱 **I’m currently learning:** Advanced machine learning techniques, the integration of vector databases, multi-agent AI systems, and the practical applications of complex numerical methods in engineering.
-
-👯 **I’m looking to collaborate on:** Impactful AI/ML projects, upcoming hackathons, and robust full-stack web applications.
-
-🤝 **I’m looking for help with:** Optimizing models, orchestrating agent-based architectures, and scaling full-stack applications using Next.js, React, Tailwind CSS, and FastAPI.
-
-💬 **Ask me about:** * Building solutions for social impact, full-stack web development, and hackathon pitching strategies!
-* Developing AI-driven tools like my career decision web app, **Mento Intello**.
-
-⚡ **Fun fact:** I'm fascinated by the discoveries of the ancient mathematician Aryabhatta, and I also have a strong side interest in sustainable and traditional agriculture.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aaryan-kasaudhan-00a4b7388) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32546892/aaryan-kasaudhan?tab=profile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaryankasaudhan91@gmail.com) 
-
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aaryankasaudhan91-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aaryankasaudhan91-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankasaudhan91-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <p align="center">
+    <a href="https://linkedin.com/in/aaryan-kasaudhan-00a4b7388"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://stackoverflow.com/users/32546892/aaryan-kasaudhan"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+    <a href="mailto:aaryankasaudhan91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/aaryankasaudhan91-dev"><img src="https://img.shields.io/github/followers/aaryankasaudhan91-dev?label=Followers&style=for-the-badge&color=24292e&logo=github" alt="GitHub Followers" /></a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aaryankasaudhan91-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 💫 About Me
+
+I'm a computer science engineering undergraduate specializing in **Artificial Intelligence & Machine Learning** at **Lokmanya Tilak College of Engineering**. Driven by a passion for social impact, I build robust, production-grade applications that bridge complex AI models with intuitive user experiences.
+
+- 🔭 **Current Focus:** Scalable multi-agent architectures, retrieval-augmented generation (RAG) with vector databases, and offline-first edge applications.
+- 💡 **Engineering Philosophy:** Designing resilient, privacy-first software tailored for resource-constrained environments.
+- ⚡ **Fun Fact:** Deeply fascinated by the foundational astronomical and mathematical principles of **Aryabhata**, with an active interest in sustainable agriculture systems.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🌾 **Krishi Mitra** | AI-driven, offline-first agriculture ecosystem for smallholder farmers featuring vector-based crop advisory (CropFit) and climate stress alerts. | `Flutter` `Node.js` `MongoDB` `Firebase` `Vector Search` |
+| 🛍️ **Kasaudhan Mart** | Autonomous e-commerce platform built on a multi-agent orchestration pattern with private-by-design architecture via OpenClaw. | `FastAPI` `React` `Multi-Agent AI` `TailwindCSS` |
+| 🎨 **HeritageWeave** | AI middleware focused on mitigating representational and cultural bias in generative multi-modal systems. | `Python` `PyTorch` `FastAPI` `Streamlit` |
+| 🍲 **MEALers Connect** | Smart surplus food redistribution platform leveraging predictive logistics to minimize waste. | `React` `Express.js` `Node.js` `MongoDB` |
+| 🐾 **Rescue Paws** | Community-driven crowd-sourcing portal to locate, report, and facilitate street animal rescues. | `React` `TailwindCSS` `Firebase` |
+| 🧭 **Mento Intello** | AI-powered decision-support engine helping students navigate tailored career pathways. | `Python` `Streamlit` `Scikit-Learn` |
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="left">
+
+**Languages & Core**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+<br/>
+
+**AI / ML & Data Science**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-005571?style=flat-square&logo=ai&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector%20Databases-4EA94B?style=flat-square&logo=database&logoColor=white" />
+
+<br/>
+
+**Frameworks & Web Development**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+<br/>
+
+**Cloud, Database & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryankasaudhan91-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankasaudhan91-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aaryankasaudhan91-dev&theme=tokyonight&hide_border=true" width="97%" />
+</div>
+
+---
+
+### 🤝 Connect & Collaborate
+
+I am always open to discussing **hackathon partnerships**, **open-source AI research**, or **scalable software engineering opportunities**.
+
+- 💬 **Ask me about:** Multi-agent workflows, social-impact tech architecture, or hackathon pitch decks.
+- 📬 **Reach out directly:** [aaryankasaudhan91@gmail.com](mailto:aaryankasaudhan91@gmail.com)
+
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=100&section=footer"/>
+  <br/>
+  <img src="https://visitcount.itsvg.in/api?id=aaryankasaudhan91-dev&icon=5&color=4" alt="Profile Views" />
+</div>
