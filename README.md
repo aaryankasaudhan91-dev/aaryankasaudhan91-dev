@@ -92,15 +92,22 @@ I'm a computer science engineering undergraduate specializing in **Artificial In
 
 ### 📊 GitHub Activity & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaryankasaudhan91-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aaryan's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aaryankasaudhan91-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=aaryankasaudhan91-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryankasaudhan91-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+  <!-- Stats Card (Alternative Mirror) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aaryankasaudhan91-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Aaryan's GitHub Stats" />
+  <!-- Top Languages (Alternative Mirror) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aaryankasaudhan91-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</div>
 
+<div align="center">
+  <br/>
+  <!-- Contribution Activity Summary Chart -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryankasaudhan91-dev&theme=tokyo-night&hide_border=true&area=true" width="97%" alt="Activity Graph" />
+</div>
 ---
 
 ### 🤝 Connect & Collaborate
