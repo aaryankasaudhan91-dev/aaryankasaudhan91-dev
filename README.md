@@ -22,7 +22,7 @@
 
 ### 💫 About Me
 
-I'm a computer science engineering undergraduate specializing in **Artificial Intelligence & Machine Learning** at **Lokmanya Tilak College of Engineering**. Driven by a passion for social impact, I build robust, production-grade applications that bridge complex AI models with intuitive user experiences.
+I'm a computer science engineering undergraduating student specializing in **Artificial Intelligence & Machine Learning** at **Lokmanya Tilak College of Engineering**. Driven by a passion for social impact, I build robust, production-grade applications that bridge complex AI models with intuitive user experiences.
 
 - 🌐 **Live Portfolio:** [aaryan-kasaudhan.vercel.app](https://aaryan-kasaudhan.vercel.app/)
 - 🔭 **Current Focus:** Scalable multi-agent architectures, retrieval-augmented generation (RAG) with vector databases, and offline-first edge applications.
