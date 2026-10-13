@@ -350,9 +350,18 @@ A machine-learning-driven decision-support initiative helping students explore p
 
 <div align="center">
 
-### 🔥 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryankasaudhan91-dev&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Activity"/>
+<h3 align="center">🔥 GitHub Contribution Calendar</h3>
+
+<div align="center">
+  <a href="https://github.com/aaryankasaudhan91-dev">
+    <img
+      src="https://ghchart.rshah.org/38B2AC/aaryankasaudhan91-dev"
+      width="98%"
+      alt="Aaryan's GitHub Contributions"
+    />
+  </a>
+</div>
 
 <br/>
 
