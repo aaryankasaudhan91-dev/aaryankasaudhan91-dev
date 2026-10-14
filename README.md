@@ -613,16 +613,19 @@ Strong AI engineering requires deep mastery of underlying computer architecture 
 
 <br/>
 
-### 🏆 GitHub Engineering Trophy Cabinet
-<img src="https://github-profile-trophy.vercel.app/?username=aaryankasaudhan91-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="98%" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-### 🔥 Commit Streak & Core Statistics
-<img src="https://streak-stats.demolab.com?user=aaryankasaudhan91-dev&theme=tokyonight&hide_border=true&background=090D16&ring=EC4899&fire=06B6D4&currStreakLabel=06B6D4" width="48%" alt="GitHub Streak"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaryankasaudhan91-dev&theme=tokyonight" width="48%" alt="Profile Statistics"/>
+### ⚡ Productive Coding Hours & Commit Telemetry
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaryankasaudhan91-dev&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive Time"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaryankasaudhan91-dev&theme=tokyonight" height="180" alt="Profile Statistics"/>
+</p>
 
 <br/>
+
+### 🔥 Live Commit Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aaryankasaudhan91-dev&theme=tokyonight&hide_border=true&background=090D16&ring=EC4899&fire=06B6D4&currStreakLabel=06B6D4" width="75%" alt="GitHub Streak"/>
+</p>
 
 ### 💻 Top Languages & Repository Breakdown
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aaryankasaudhan91-dev&theme=tokyonight" width="48%" alt="Most Used Languages"/>
