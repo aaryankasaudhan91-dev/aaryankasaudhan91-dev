@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=EC4899&center=true&vCenter=true&width=850&lines=%5BSystem+Telemetry%5D%3A+B.Tech+CSE+(AI+%26+ML)+%40+LTCE+Mumbai;%5BCurrent+Role%5D%3A+Machine+Learning+Intern+%40+AUSPIFY;%5BPrevious+Role%5D%3A+Web+Developer+Intern+%40+Codomax+Digital+Solution;%5BMission%5D%3A+Bridging+Deep+Learning+Research+with+Real-World+Social+Impact" alt="Secondary Telemetry Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=EC4899&center=true&vCenter=true&width=850&lines=%5BSystem+Telemetry%5D%3A+B.Tech+CSE+(AI+%26+ML)+%40+LTCE+Mumbai;%5BIndustry+Experience%5D%3A+Web+Developer+Intern+%40+Codomax+Digital+Solution;%5BMission%5D%3A+Bridging+Deep+Learning+Research+with+Real-World+Social+Impact" alt="Secondary Telemetry Typing SVG" />
 </a>
 
 <br/><br/>
@@ -61,7 +61,7 @@
 
 | `[01] Identity & Bio` | `[02] AI Topologies` | `[03] Industry Logs` | `[04] Flagship Matrix` | `[05] Tech Arsenal` | `[06] CS Foundations` | `[07] Live Telemetry` | `[08] R&D Horizon` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⚡ `whoami` | 🧠 Agentic & RAG | 💼 2 Internships | 🚀 10 Deep-Dives | 🛠️ Full Toolkit | 🏛️ Logic & Hardware | 📊 GitHub Stats | 🎯 Vision & Goals |
+| ⚡ `whoami` | 🧠 Agentic & RAG | 💼 Internship & R&D | 🚀 10 Deep-Dives | 🛠️ Full Toolkit | 🏛️ Logic & Hardware | 📊 GitHub Stats | 🎯 Vision & Goals |
 
 </div>
 
@@ -85,8 +85,7 @@ I am deeply passionate about designing and engineering intelligent software ecos
 
 #### 🌟 Core Identity & Engineering DNA
 - 🎓 **Academic Specialization:** Pursuing **B.Tech in CSE (AI & ML)** at Lokmanya Tilak College of Engineering (LTCE).
-- 💼 **1st Industry Milestone:** Completed Web Development & Functional QA Internship at **Codomax Digital Solution**.
-- 🤖 **2nd Industry Milestone:** Machine Learning Intern at **AUSPIFY**, engineering predictive, data-driven models and pipelines.
+- 💼 **Industry Milestone:** Completed Web Development & Functional QA Internship at **Codomax Digital Solution**.
 - 🔭 **Active R&D:** Architecting **Agentic AI Swarms (`OpenClaw`), Hybrid RAG Pipelines, LLMs, and Vector Databases**.
 - 🌱 **System Engineering:** Mastering cloud-native microservices, Dockerized deployments, PostgreSQL/Supabase RLS, and production MLOps.
 - 🌍 **Social Impact Focus:** Dedicated to sustainable agriculture technology, urban disaster resilience, and zero-waste food logistics.
@@ -110,12 +109,8 @@ engineer_profile:
   education: "B.Tech CSE (AI & ML) @ LTCE"
   location: "Mumbai, Maharashtra, India"
 
-internship_pipeline:
-  stage_02_current:
-    role: "Machine Learning Intern"
-    organization: "AUSPIFY"
-    domain: "Applied AI, Data Science & Modeling"
-  stage_01_completed:
+internship_experience:
+  completed_role:
     role: "Web Developer Intern"
     organization: "Codomax Digital Solution"
     domain: "Frontend UI, Responsive Web & QA"
@@ -223,27 +218,25 @@ sequenceDiagram
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ======================================================================================================= -->
-<!-- SECTION 04: PROFESSIONAL EXPERIENCE & INTERNSHIPS                                                       -->
+<!-- SECTION 04: PROFESSIONAL EXPERIENCE & ENGINEERING JOURNEY                                               -->
 <!-- ======================================================================================================= -->
 
-## 💼 `03 // PROFESSIONAL_EXPERIENCE` : Industry Internships & Engineering Journey
+## 💼 `03 // PROFESSIONAL_EXPERIENCE` : Industry Internship & Engineering Journey
 
 <div align="center">
 
 ~~~mermaid
 graph LR
-    S1["🌐 Web Foundations<br/>HTML5 • CSS3 • JS"] --> S2("💼 INTERNSHIP 01<br/>Codomax Digital Solution<br/>Web Developer Intern")
+    S1["🌐 Web Foundations<br/>HTML5 • CSS3 • JS"] --> S2("💼 INTERNSHIP<br/>Codomax Digital Solution<br/>Web Developer Intern")
     S2 --> S3["⚡ Full-Stack Systems<br/>React • Node • FastAPI"]
-    S3 --> S4("🤖 INTERNSHIP 02<br/>AUSPIFY<br/>Machine Learning Intern")
-    S4 --> S5["🧠 Agentic AI & RAG<br/>Multi-Agent • Vector DBs"]
-    S5 --> S6(("🌍 AI FOR SOCIAL IMPACT<br/>Production Ecosystems"))
+    S3 --> S4["🧠 Agentic AI & RAG<br/>Multi-Agent • Vector DBs"]
+    S4 --> S5(("🌍 AI FOR SOCIAL IMPACT<br/>Production Ecosystems"))
 
     style S1 fill:#090D16,stroke:#06B6D4,stroke-width:2px,color:#fff
     style S2 fill:#1E3A8A,stroke:#3B82F6,stroke-width:3px,color:#fff
     style S3 fill:#090D16,stroke:#06B6D4,stroke-width:2px,color:#fff
-    style S4 fill:#4C1D95,stroke:#8B5CF6,stroke-width:3px,color:#fff
-    style S5 fill:#311042,stroke:#EC4899,stroke-width:2px,color:#fff
-    style S6 fill:#065F46,stroke:#10B981,stroke-width:3px,color:#fff
+    style S4 fill:#311042,stroke:#EC4899,stroke-width:2px,color:#fff
+    style S5 fill:#065F46,stroke:#10B981,stroke-width:3px,color:#fff
 ~~~
 
 **From Web Development Fundamentals to Autonomous Artificial Intelligence — Building Skills, Solving Problems, and Growing as an Engineer.**
@@ -256,16 +249,16 @@ graph LR
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 01. Web Developer Intern — `Codomax Digital Solution`
+### 🌐 Web Developer Intern — `Codomax Digital Solution`
 
-![First Internship](https://img.shields.io/badge/1st_Internship-Web_Development-007ACC?style=for-the-badge&logo=html5&logoColor=white)
+![Internship](https://img.shields.io/badge/Internship-Web_Development-007ACC?style=for-the-badge&logo=html5&logoColor=white)
 ![Codomax](https://img.shields.io/badge/Codomax-Digital_Solution-38B2AC?style=for-the-badge)
 
 - **Position:** Web Developer Intern  
 - **Organization:** Codomax Digital Solution  
 - **Domain:** Web Development, Responsive UI & Software Functional Testing
 
-My first internship at **Codomax Digital Solution** marked a foundational milestone in my software engineering journey. It provided hands-on industry exposure to strengthen my web development fundamentals, adopt modern frontend workflows, and understand the end-to-end lifecycle of building and testing responsive web applications.
+My internship at **Codomax Digital Solution** marked a foundational milestone in my software engineering journey. It provided hands-on industry exposure to strengthen my web development fundamentals, adopt modern frontend workflows, and understand the end-to-end lifecycle of building and testing responsive web applications.
 
 #### 💡 Key Learning Areas & Technical Execution
 - 💻 **Frontend Development:** Engineered clean, modular web interfaces using semantic `HTML5`, modern `CSS3` (Flexbox, CSS Grid), and interactive `JavaScript (ES6+)`.
@@ -279,7 +272,31 @@ My first internship at **Codomax Digital Solution** marked a foundational milest
 `HTML5` `CSS3` `JavaScript (ES6+)` `Responsive Design` `Functional QA Testing` `Git` `GitHub`
 
 </td>
+<td width="50%" valign="top">
 
+### 🧠 Applied AI & Systems Engineering — `Academic & Hackathon R&D`
+
+![R&D Focus](https://img.shields.io/badge/R%26D_Focus-AI_%26_Multi--Agent_Systems-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Full--Stack_AI-009688?style=for-the-badge)
+
+- **Focus Area:** Autonomous AI Agents, RAG Pipelines & Predictive Modeling  
+- **Affiliation:** B.Tech CSE (AI & ML) @ LTCE Mumbai  
+- **Domain:** Applied Machine Learning, Deep Learning & Full-Stack Integration
+
+Alongside my industry web development experience, I actively architect **intelligent, data-driven machine learning and multi-agent systems** across national hackathons and flagship research projects—applying statistical rigor and modern backend engineering to solve real-world problems.
+
+#### 🧠 Key Engineering & Research Execution
+- 📊 **Data Preprocessing & Feature Engineering:** Designing pipelines for data cleaning, missing-value imputation, normalization, scaling, and high-signal feature extraction.
+- 🤖 **Machine Learning & Deep Learning:** Implementing and benchmarking supervised/unsupervised models (`Scikit-Learn`) and multimodal neural architectures (`PyTorch`, `Hugging Face`).
+- ⚡ **Multi-Agent & RAG Orchestration:** Engineering collaborative agent swarms (`OpenClaw`) and semantic vector retrieval pipelines for zero-hallucination domain advisory.
+- 🔬 **Model Validation & Evaluation:** Executing $k$-fold cross-validation, hyperparameter tuning, and metric benchmarking (F1-Score, ROC-AUC, Precision/Recall, RMSE).
+- 📡 **Edge-to-Cloud IoT Integration:** Connecting `ESP32` sensor telemetry and geospatial datasets with asynchronous `FastAPI` and `Node.js` backends for real-time inference.
+- 🛡️ **Responsible & Privacy-First AI:** Building cultural bias mitigation guardrails and strict cryptographic data isolation.
+
+#### 🛠️ Technology Focus
+`Python` `PyTorch` `Scikit-Learn` `FastAPI` `Multi-Agent AI` `RAG & Vector DBs` `React / Flutter`
+
+</td>
 </tr>
 </table>
 
@@ -515,14 +532,13 @@ A machine-learning decision-support initiative helping students explore personal
 
 <br/><br/>
 
-### 🔧 IDEs, Embedded Microcontrollers & Creative Workflow
+### 🔧 IDEs, Embedded Microcontrollers & Developer Workflow
 <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,figma,linux,vercel&perline=6&theme=dark" alt="Developer Tools"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/ESP32_Microcontrollers-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white"/>
 <img src="https://img.shields.io/badge/pgAdmin_4-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_S3_Storage-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Video_Editing_&_Timelines-EC4899?style=for-the-badge&logo=adobe&logoColor=white"/>
 
 </div>
 
@@ -567,7 +583,7 @@ Strong AI engineering requires deep mastery of underlying computer architecture 
 - 🏅 **AWS Educate Machine Learning Foundations Badge:** Issued by *Amazon Web Services (AWS) Training & Certification*.
 - 🛰️ **Bharatiya Antariksh Hackathon (ISRO & Hack2skill):** Engineered and submitted **Aero-Vision** for satellite-assisted AQI and geospatial intelligence.
 - 🤖 **UiPath Community & NeuIQ Mumbai Event:** Active participant in Agentic Automation and AI Agent orchestration sessions.
-- 🎬 **Creative Storytelling & Video Editing:** Passionate about cutting video timelines and presenting complex technical architectures visually.
+- 📐 **System Architecture & Visual Documentation:** Designing interactive Mermaid system topologies and structured technical specifications.
 
 </td>
 </tr>
@@ -657,24 +673,24 @@ My overarching goal is to become an AI & Systems Engineer capable of architectin
 
 ~~~text
   +-------------------------------------------------------+
-  |           LONG-TERM ARCHITECTURAL NORTH STAR          |
+  |            LONG-TERM ARCHITECTURAL NORTH STAR         |
   +-------------------------------------------------------+
                               |
-       +----------------------+----------------------+
-       |                                             |
-       v                                             v
+        +----------------------+----------------------+
+        |                                             |
+        v                                             v
   [ FRONTIER AI R&D ]                     [ HUMAN-CENTRIC IMPACT ]
   • Autonomous Multi-Agent Swarms         • Offline-First Rural Access
   • Hallucination-Free RAG Systems        • Unbiased, Responsible AI
   • Edge-to-Cloud IoT Intelligence        • Climate & Social Resilience
-       |                                             |
-       +----------------------+----------------------+
+        |                                             |
+        +----------------------+----------------------+
                               |
                               v
-       ===============================================
-       "Bridging Advanced Artificial Intelligence with
-        Real-World Human Needs at Global Scale."
-       ===============================================
+        ===============================================
+        "Bridging Advanced Artificial Intelligence with
+         Real-World Human Needs at Global Scale."
+        ===============================================
 ~~~
 
 </td>
