@@ -279,31 +279,7 @@ My first internship at **Codomax Digital Solution** marked a foundational milest
 `HTML5` `CSS3` `JavaScript (ES6+)` `Responsive Design` `Functional QA Testing` `Git` `GitHub`
 
 </td>
-<td width="50%" valign="top">
 
-### 🤖 02. Machine Learning Intern — `AUSPIFY`
-
-![Second Internship](https://img.shields.io/badge/2nd_Internship-Machine_Learning-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
-![AUSPIFY](https://img.shields.io/badge/AUSPIFY-Machine_Learning-009688?style=for-the-badge)
-
-- **Position:** Machine Learning Intern  
-- **Organization:** AUSPIFY  
-- **Domain:** Artificial Intelligence, Machine Learning & Predictive Analytics
-
-My second internship at **AUSPIFY** represents the next major evolution of my engineering career—expanding my focus from full-stack software construction toward **intelligent, data-driven machine learning systems**. Here, I apply statistical rigor and algorithmic modeling to solve practical real-world problems through experimentation, data pipelines, and model validation.
-
-#### 🧠 Key Learning Areas & Technical Execution
-- 📊 **Data Preprocessing & Feature Engineering:** Designing robust pipelines for data cleaning, missing-value imputation, outlier removal, normalization, scaling, and high-signal feature extraction.
-- 🤖 **Machine Learning Algorithms:** Exploring, implementing, and benchmarking supervised learning (Linear/Logistic Regression, Random Forests, Gradient Boosting, SVMs) and unsupervised learning (K-Means Clustering, PCA) algorithms.
-- 🐍 **Python for Scientific Computing:** Leveraging `Python`, `NumPy`, `Pandas`, and `Scikit-Learn` to write clean, vectorized analytical code.
-- 🔬 **Model Development & Evaluation:** Executing end-to-end model training, $k$-fold cross-validation, hyperparameter tuning, and rigorous metric evaluation (F1-Score, ROC-AUC, Precision/Recall, RMSE).
-- 📈 **Exploratory Data Analysis (EDA):** Uncovering hidden correlations, statistical distributions, and actionable insights from multi-dimensional datasets.
-- 🚀 **Applied AI Integration:** Bridging trained ML models with practical application backends for real-time inference.
-
-#### 🛠️ Technology Focus
-`Python` `Machine Learning` `Scikit-Learn` `Pandas` `NumPy` `Data Analysis` `Model Evaluation`
-
-</td>
 </tr>
 </table>
 
