@@ -4,9 +4,6 @@
 
 <div align="center">
 
-<!-- 1. MASTER ANIMATED WAVING HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,30:1E1B4B,65:4F46E5,100:06B6D4&height=260&section=header&text=AARYAN%20KASAUDHAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20AI%2FML%20Engineer%20%7C%20Multi-Agent%20Systems%20Architect%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=19&stroke=06B6D4&strokeWidth=1" alt="Aaryan Kasaudhan Master Banner"/>
-
 <!-- BEGIN COMIC PROFILE ART -->
 <p align="center">
   <a href="./assets/profile-comic.png">
