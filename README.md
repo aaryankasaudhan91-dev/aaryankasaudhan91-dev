@@ -7,6 +7,15 @@
 <!-- 1. MASTER ANIMATED WAVING HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,30:1E1B4B,65:4F46E5,100:06B6D4&height=260&section=header&text=AARYAN%20KASAUDHAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20AI%2FML%20Engineer%20%7C%20Multi-Agent%20Systems%20Architect%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=19&stroke=06B6D4&strokeWidth=1" alt="Aaryan Kasaudhan Master Banner"/>
 
+<!-- BEGIN COMIC PROFILE ART -->
+<p align="center">
+  <a href="./assets/profile-comic.png">
+    <img src="./assets/profile-comic.gif" width="320" height="320" alt="Animated Spider-Verse-inspired comic portrait of Aaryan Kasaudhan" />
+  </a>
+</p>
+<p align="center"><a href="./assets/profile-comic.png">View the still portrait</a></p>
+<!-- END COMIC PROFILE ART -->
+
 <!-- 2. DUAL ANIMATED TYPING TERMINALS -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=06B6D4&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Aaryan+Kasaudhan!+%F0%9F%91%8B;Building+Intelligent+Systems+for+a+Better+Tomorrow+%F0%9F%9A%80;Architecting+Multi-Agent+AI+%26+RAG+Ecosystems+%F0%9F%A7%A0;Engineering+Offline-First+%26+Privacy-First+Platforms+%F0%9F%94%90" alt="Primary Typing SVG" />
