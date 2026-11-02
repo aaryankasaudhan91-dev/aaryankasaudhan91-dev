@@ -540,7 +540,7 @@ Every great Spider-Suit needs rock-solid underlying computer architecture and ma
 
 ### 🔥 Spider-Sense Live Commit Streak (Crimson & Cobalt Edition)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryankasaudhan91-dev&theme=radical&hide_border=false&border=E23636&background=05050A&ring=E23636&fire=3B82F6&currStreakLabel=E23636&sideLabels=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF" width="78%" alt="GitHub Spider Streak"/>
+  <img src="https://github-readme-streak-stats-chi-ten-14.vercel.app/?user=aaryankasaudhan91-dev&theme=radical&hide_border=false&border=E23636&background=05050A&ring=E23636&fire=3B82F6&currStreakLabel=E23636&sideLabels=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF" width="78%" alt="GitHub Spider Streak"/>
 </p>
 
 ### 💻 Top Web-Fluid Languages & Repository Breakdown
