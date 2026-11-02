@@ -538,16 +538,9 @@ Every great Spider-Suit needs rock-solid underlying computer architecture and ma
 
 <br/>
 
-### 🔥 Spider-Sense Live Commit Telemetry (Crimson & Cobalt Edition)
+### 🔥 Spider-Sense Live Commit Streak (Crimson & Cobalt Edition)
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:05050A,50:7F1D1D,100:1D4ED8&height=110&section=header&text=SPIDER-SENSE%20STREAK%20%26%20COMMIT%20ENGINE%20%3A%20ONLINE&fontSize=20&fontColor=FFFFFF&animation=twinkling&desc=Active%20Multiverse%20Contributor%20%7C%20500%2B%20Yearly%20Contributions%20%7C%20Earth-616&descSize=13&descAlignY=72&fontAlignY=40&stroke=E23636&strokeWidth=1" width="85%" alt="GitHub Spider Streak HUD"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/aaryankasaudhan91-dev/aaryankasaudhan91-dev?style=for-the-badge&logo=git&logoColor=white&label=README_VELOCITY&color=E23636&labelColor=05050A" alt="Commit Activity"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/last-commit/aaryankasaudhan91-dev/aaryankasaudhan91-dev?style=for-the-badge&logo=github&logoColor=3B82F6&label=LAST_SUIT_SYNC&color=1D4ED8&labelColor=05050A" alt="Last Commit"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STREAK_STATUS-ACTIVE_PATROL-E23636?style=for-the-badge&logo=fire&logoColor=white&labelColor=05050A" alt="Streak Status"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryankasaudhan91-dev&theme=radical&hide_border=false&border=E23636&background=05050A&ring=E23636&fire=3B82F6&currStreakLabel=E23636&sideLabels=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF" width="78%" alt="GitHub Spider Streak"/>
 </p>
 
 ### 💻 Top Web-Fluid Languages & Repository Breakdown
